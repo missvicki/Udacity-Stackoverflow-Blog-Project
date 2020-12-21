@@ -1,0 +1,8 @@
+# virtual env
+/udacity-blog
+
+/.ipynb_checkpoints
+
+/data
+
+.DS_Store
